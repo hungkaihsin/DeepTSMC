@@ -43,5 +43,5 @@ docker-compose up
 ```
 
 ##  Contact
-Created by **Daniel** - [k_hung2@u.pacific.edu](mailto:k_hung2@u.pacific.edu)
+Created by **Daniel** - [k_hung2@u.pacific.edu](mailto:k_hung2@u.pacific.edu) | [LinkedIn](https://www.linkedin.com/in/kai-hsin-hung/) | [Portfolio](https://hungkaihsin.github.io/)
 
