@@ -9,10 +9,11 @@ export default function IntroductionPage() {
     <div className="intro-page">
       <div className="nav-buttons">
         <button onClick={() => navigate('/intro')}>Introduction</button>
-        <button onClick={() => navigate('/predict')}>Functionality</button>
+        <button onClick={() => navigate('/predict')}>Prediction</button>
       </div>
 
-      <h2 className="page-title">Time Series Forecasting of TSMC Stock Prices Using RNNs and ConvNets</h2>
+      <h2 className="page-title">DeepTSMC</h2>
+      <p className="subtitle">Time Series Forecasting of TSMC Stock Prices Using RNNs and ConvNets</p>
 
       <section className="section">
         <h3>Introduction:</h3>

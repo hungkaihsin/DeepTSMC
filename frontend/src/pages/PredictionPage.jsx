@@ -86,10 +86,10 @@ export default function PredictionPage() {
     <div className="prediction-page">
       <div className="nav-buttons">
         <button onClick={() => navigate('/intro')}>Introduction</button>
-        <button onClick={() => navigate('/predict')}>Functionality</button>
+        <button onClick={() => navigate('/predict')}>Prediction</button>
       </div>
 
-      <h2>Time Series Forecasting of TSMC Stock Prices Using RNNs and ConvNets</h2>
+      <h2>DeepTSMC</h2>
 
       <div className="controls">
         <label>
